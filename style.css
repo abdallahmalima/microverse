@@ -1,0 +1,12 @@
+body {
+    background-image: url(bg.jpg);
+    
+ }
+ .title {
+    color:white;
+    margin-top:145px;
+    text-align: center;
+ }
+ .content {
+    text-align: center;
+ }
